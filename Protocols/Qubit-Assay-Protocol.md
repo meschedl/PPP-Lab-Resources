@@ -1,0 +1,21 @@
+
+### Broad Range dsDNA, High Sensitivity dsDNA, Broad Range RNA, and High Sensitivity RNA
+
+**All Steps are the same whichever quantification method you are using**
+
+1. Determine _n_ number for calculating working reagent for assay: Number of samples + 2 (for standards) + % error (usually .5 of 1)
+2. Take appropriate standards for your assay out of the fridge and let get to ~room temp while you set up. Standards are usually labeled for the lab
+2. Create mix for working reagent of Qubit Buffer and Quant-IT Reagent, make sure it is from the box/bag for the type of assay you are running
+  - _n_ μl of Quant-IT Reagent
+  - 199 * _n_ μl of Buffer
+3. Vortex and spin down master mix (if in a 5mL tube use the larger centrifuge with yellow inserts)
+4. Set up thin walled Axygen tubes (in a small plastic container above the Qubit station): enough for each of your samples plus 2 more for standards. Label appropriately. They fit nicely in the large black rack on the underside
+5. Add 190μl of master mix to the 2 tubes for the standards
+6. Add 199μl of master mix to each of your sample tubes
+7. Vortex and spin down standards (if large bottles no need to spin down). Add 1µl of standard 1 to the standard 1 thin walled tube, add 1µl standard 2 to the thin walled standard tube
+8. Add 1μl of sample to the corresponding thin walled sample tube
+9. Vortex and spin down all tubes (use inserts in minifuge for small tubes)
+10. Choose appropriate assay in the Qubit and read standard tubes. DNA standards should have a 10 fold difference between S1 and S2.
+11. Read each sample tube one at a time. Our settings are 1μl of sample and we want the output to be ng/μl
+12. Read your samples twice, go through all of the samples once then do through them again. The light that flashes on the sample tube increases the temperature of the liquid, so you do not want to read a sample tube twice quickly
+13. All components are safe and can be disposed of in the tip buckets or trash
