@@ -2,19 +2,19 @@
 #### This protocol is for the Putnam, Prada, and Puritz Labs
 
 1. Determine the size gel you need to make, remember to account for at least one well for a ladder on each row:
-  - Small gel comb capability: two combs with 14 wells each, total 28
-  - Medium gel comb capability: two combs with 20 wells each, total 40
-  - Large gel comb capability: two combs with 50 wells each, total 100
+    - Small gel comb capability: two combs with 14 wells each, total 28
+    - Medium gel comb capability: two combs with 20 wells each, total 40
+    - Large gel comb capability: two combs with 50 wells each, total 100
 2.	For small gel box, make a 75mL gel mix, for the medium box make a 100mL mix.
 3. Making gels:  
   For a **1% gel**:
-  - **Small box**: 75mL new 1X TAE buffer and .75g agarose
-  - **Med box**: 100mL new 1X TAE buffer and 1g agarose  
-  - **Large box**: 150mL new 1X TAE buffer and 1.5g agarose  
+    - **Small box**: 75mL new 1X TAE buffer and .75g agarose
+    - **Med box**: 100mL new 1X TAE buffer and 1g agarose  
+    - **Large box**: 150mL new 1X TAE buffer and 1.5g agarose  
   For a **1.5% gel**:
-  - **Small box**: 75mL new 1X TAE buffer and 1.12g agarose
-  - **Med box**: 100mL new 1X TAE buffer and 1.5g agarose
-  - **Large box**: 150mL new 1X TAE buffer and 2.25g agarose
+    - **Small box**: 75mL new 1X TAE buffer and 1.12g agarose
+    - **Med box**: 100mL new 1X TAE buffer and 1.5g agarose
+    - **Large box**: 150mL new 1X TAE buffer and 2.25g agarose
 4. Use a weigh boat designated for agarose and a scoopula to measure agarose and using the Erlenmeyer flask from the gel bench to measure the TAE
 4.	Mix inside the Erlenmeyer flask: add the agarose by taco-ing the weigh boat and carefully pouring the powder as to not get it stuck to the side of the flask. Pour up to your desired volume with new 1X TAE. Swirl the flask to mix
 5.	 Put a scrunched Kimwipe in the mouth of the flask and put in the microwave for 1 minute. Every 20 seconds open microwave and swirl flask. Use an orange glove because glass gets hot
