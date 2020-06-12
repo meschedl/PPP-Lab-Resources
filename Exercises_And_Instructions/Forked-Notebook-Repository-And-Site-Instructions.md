@@ -13,10 +13,10 @@ author: Maggie Schedl
 
 **Important Links:**   
 [Original Jekyll Blog](https://github.com/barryclark/jekyll-now)
-[Hollie's Notebook](https://github.com/hputnam/Putnam_Lab_Notebook) 
+[Hollie's Notebook](https://github.com/hputnam/Putnam_Lab_Notebook)   
 **These are not the only blog/notebooks you can use! And if you want to make two notebooks you cannot fork the same one twice.**   
-[More jekyll themes](https://github.com/topics/jekyll-themes)  
-[Another blog truned into a lab notebook](https://github.com/meschedl/MES_Puritz_Lab_Notebook)
+[More jekyll themes](https://github.com/topics/jekyll-themes)    
+[Another blog turned into a lab notebook](https://github.com/meschedl/MES_Puritz_Lab_Notebook)
 
 
 ### Steps Specifically for the Jekyll Now Style Notebook / Hollie Putnam's Online Lab Notebook
