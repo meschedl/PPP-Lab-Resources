@@ -19,7 +19,7 @@
 4.	Mix inside the Erlenmeyer flask: add the agarose by taco-ing the weigh boat and carefully pouring the powder as to not get it stuck to the side of the flask. Pour up to your desired volume with new 1X TAE. Swirl the flask to mix
 5.	 Put a scrunched Kimwipe in the mouth of the flask and put in the microwave for 1 minute. Every 20 seconds open microwave and swirl flask. Use an orange glove because glass gets hot
 6.	Microwaving time can vary, so keep adding time until when you look at the liquid when swirling it is completely clear and there are no “flakes.” This is often when it is boiling, but you need to not let it continue boiling for too long because it will boil over out of the flask and into the microwave
-7.	Add 5μl GelRed or 1μl GelGreen to the liquid and swirl the flask to mix thoroughly. GelGreen is preferred
+7.	Add 5μl GelRed or 1μl GelGreen to the liquid and swirl the flask to mix thoroughly. **GelGreen is preferred**
 8.	Set up gel cast mold, place your tray in the gel box sideways and make sure there is an air-tight seal with the rubber noodles. For the large gel box there is a separate casting mold. Use the level to make sure the tray is sitting level inside the box for a flat gel
 9.	Let gel mix cool ~5 minutes in the flask before pouring into the gel tray, if you can safely hold it, that's a good sign it's ready
 10.	Pour in the mix and put desired comb size into the tray
