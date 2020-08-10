@@ -8,7 +8,7 @@
 6. On the inside there is an orange valve at the bottom of the unit. Turn it to fully open so that when you flush the steam and water comes out
 7. **Once the valve is opened** you can close the unit and press flush on the screen
 8. It will count down until it's done flushing
-9. Once it's done flushing you can open the door and load in your items. Press the pedal at the bottom of the unit on the right side. This should open the door automatically
+9. Once it's done flushing you will have to open the front of the unit and close the valve again, close the front and push it in until it is secure. Then you can open the door and load in your items. Press the pedal at the bottom of the unit on the right side. This should open the door automatically
 10. Load in your bins, you should be able to put in two bins, and you can roll out the rack if needed
 11. To close the door you press the same pedal, if the door doesn't go up automatically you can help it get started (sometimes it gets stuck) by pulling up on the little handle
 12. On the panel chose the correct protocol. For dry glassware you want to use a "Gravity" setting. The longest one is #6
