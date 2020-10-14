@@ -31,8 +31,8 @@
 16.	On a piece of parafilm, make dots of 1ul of loading dye for each one of your samples. 1 by 1 for each of your sample aliquoits, add 5ul of sample DNA to the dot of loading dye and pipette to mix. It will stay in a bubble on the parafilm. Then suck up the full 6ul and add it to the gel
 17.	Make sure you have made a map in your notebook that shows the order of samples
 18.	Make sure gel box is set up to “run towards red”
-19.	Plug black cable into black insert and red cable into red insert of the gel box
-20.	Turn box on and make sure voltage is set to 100V. Set time for 45-60min
+19.	Plug black cable into black insert and red cable into red insert of the gel power station and gently slide the lid onto the box
+20.	Turn box on and make sure voltage is set to 80-100V. Set time for 45-60min
 21.	Once done, set up the imager. Take the grey imager down from the shelf and remove the orange cover. Also take down the black imager shade and the small orange slide for imaging
 22. Slide your gel from the tray into the center of the blue square on the imager
 23. Place the black imager shade over the gel and the square and put the orange slide tile over the whole on the top
