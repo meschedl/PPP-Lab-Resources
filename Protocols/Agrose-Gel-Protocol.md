@@ -27,10 +27,10 @@
 12.	Let harden until opaque and cool ~30min
 13.	Take out and orient the gel with the comb side to the top of the box. Take the comb out of the hardened gel
 14.	Pour enough “used” TAE buffer into the gel box to cover the gel with a thin layer of liquid and make sure there are no dimples where the wells are
-15.	Add 3-4μl of the appropriate ladder to the first well in the gelOn a piece of parafilm, make dots of 1ul of loading dye for each one of your samples.
+15.	Add 3-4μl of the appropriate ladder to the first well in the gel
 16.	On a piece of parafilm, make dots of 1ul of loading dye for each one of your samples. 1 by 1 for each of your sample aliquoits, add 5ul of sample DNA to the dot of loading dye and pipette to mix. It will stay in a bubble on the parafilm. Then suck up the full 6ul and add it to the gel
 17.	Make sure you have made a map in your notebook that shows the order of samples
-18.	Make sure gel box is set up to “run towards red”
+18.	Make sure gel box is set up to “run towards red” meaning when you slide the lid on, the red electrode will be at the bottom of the box and the gel comb wells are at the top
 19.	Plug black cable into black insert and red cable into red insert of the gel power station and gently slide the lid onto the box
 20.	Turn box on and make sure voltage is set to 80-100V. Set time for 45-60min
 21.	Once done, set up the imager. Take the grey imager down from the shelf and remove the orange cover. Also take down the black imager shade and the small orange slide for imaging
