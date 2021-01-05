@@ -8,16 +8,22 @@ author: Maggie Schedl
 ### Walk-though of Forking and Modifying this Notebook Site  
 #### All steps that can be done through the terminal instead of a GUI will be written for doing in the terminal because it is good practice to use the shell
 
+## Forking a Blog Style Github for Notebook Purposes
 
-**Important Links:**  
-[Hollie's Notebook](https://github.com/hputnam/Putnam_Lab_Notebook)  
+
+**Important Links:**   
 [Original Jekyll Blog](https://github.com/barryclark/jekyll-now)
+[Hollie's Notebook](https://github.com/hputnam/Putnam_Lab_Notebook)   
+**These are not the only blog/notebooks you can use! And if you want to make two notebooks you cannot fork the same one twice.**   
+[More jekyll themes](https://github.com/topics/jekyll-themes)    
+[Another blog turned into a lab notebook](https://github.com/meschedl/MES_Puritz_Lab_Notebook)
 
-### Steps
+
+### Steps Specifically for the Jekyll Now Style Notebook / Hollie Putnam's Online Lab Notebook
 
 1. Open your Terminal application. If you have a mac the name of the app is terminal. If you have a pc there should be an option to open the Command Prompt, or you may have to install putty.
 
-2. `cd Desktop/folder-for-Putnam-lab` Get yourself into the folder you want, you can make folders with your finder or in the terminal as in the next step. If your folder is in a different place, like Documents put that in the path.
+2. `cd Desktop/folder` Get yourself into the folder you want, you can make folders with your finder or in the terminal as in the next step. If your folder is in a different place, like Documents put that in the path.
 
 3. `mkdir Notebook-Directory` Make a directory (same thing as a folder) where you want to put the repository for the Putnam Lab Notebook. This is where all the files will go.
 
@@ -105,6 +111,7 @@ In the terminal
 `---`  
 `layout: post`  
 `title: Your title`    
+`category: [ the overarching category of your post ]`  
 `tags: [ specfic, tags, if, you, want, them]`  
 `---`  
 This is what sets up the layout for each post.

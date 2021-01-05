@@ -19,7 +19,7 @@
 4.	Mix inside the Erlenmeyer flask: add the agarose by taco-ing the weigh boat and carefully pouring the powder as to not get it stuck to the side of the flask. Pour up to your desired volume with new 1X TAE. Swirl the flask to mix
 5.	 Put a scrunched Kimwipe in the mouth of the flask and put in the microwave for 1 minute. Every 20 seconds open microwave and swirl flask. Use an orange glove because glass gets hot
 6.	Microwaving time can vary, so keep adding time until when you look at the liquid when swirling it is completely clear and there are no “flakes.” This is often when it is boiling, but you need to not let it continue boiling for too long because it will boil over out of the flask and into the microwave
-7.	Add 5μl GelRed or 1μl GelGreen to the liquid and swirl the flask to mix thoroughly. GelGreen is preferred
+7.	Add 5μl GelRed or 1μl GelGreen to the liquid and swirl the flask to mix thoroughly. **GelGreen is preferred**
 8.	Set up gel cast mold, place your tray in the gel box sideways and make sure there is an air-tight seal with the rubber noodles. For the large gel box there is a separate casting mold. Use the level to make sure the tray is sitting level inside the box for a flat gel
 9.	Let gel mix cool ~5 minutes in the flask before pouring into the gel tray, if you can safely hold it, that's a good sign it's ready
 10.	Pour in the mix and put desired comb size into the tray
@@ -27,12 +27,12 @@
 12.	Let harden until opaque and cool ~30min
 13.	Take out and orient the gel with the comb side to the top of the box. Take the comb out of the hardened gel
 14.	Pour enough “used” TAE buffer into the gel box to cover the gel with a thin layer of liquid and make sure there are no dimples where the wells are
-15.	Add 3-4μl of the appropriate ladder to the first well in the gelOn a piece of parafilm, make dots of 1ul of loading dye for each one of your samples.
+15.	Add 3-4μl of the appropriate ladder to the first well in the gel
 16.	On a piece of parafilm, make dots of 1ul of loading dye for each one of your samples. 1 by 1 for each of your sample aliquoits, add 5ul of sample DNA to the dot of loading dye and pipette to mix. It will stay in a bubble on the parafilm. Then suck up the full 6ul and add it to the gel
 17.	Make sure you have made a map in your notebook that shows the order of samples
-18.	Make sure gel box is set up to “run towards red”
-19.	Plug black cable into black insert and red cable into red insert of the gel box
-20.	Turn box on and make sure voltage is set to 100V. Set time for 45-60min
+18.	Make sure gel box is set up to “run towards red” meaning when you slide the lid on, the red electrode will be at the bottom of the box and the gel comb wells are at the top
+19.	Plug black cable into black insert and red cable into red insert of the gel power station and gently slide the lid onto the box
+20.	Turn box on and make sure voltage is set to 80-100V. Set time for 45-60min
 21.	Once done, set up the imager. Take the grey imager down from the shelf and remove the orange cover. Also take down the black imager shade and the small orange slide for imaging
 22. Slide your gel from the tray into the center of the blue square on the imager
 23. Place the black imager shade over the gel and the square and put the orange slide tile over the whole on the top
