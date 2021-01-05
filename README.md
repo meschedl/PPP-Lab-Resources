@@ -5,6 +5,6 @@ Resources, protocols, recipes, etc for the Puritz, Prada, and Putnam Labs at the
 
 LINKS!
 
-[Chemical Cabinet](https://docs.google.com/spreadsheets/d/1kSsQKb1q98p9D-DaWnS4tpYaZkxWGAyFGMmqO1fqxVg/edit?usp=sharing): Dry chemicals and non-flammable and non-corrosive liquids 
+[Lab Map, Chemical (dry, liquid, hazardous Cabinets, and Layouts for Shared Cold Storage are all tabs in theis spreadsheet](https://docs.google.com/spreadsheets/d/1kSsQKb1q98p9D-DaWnS4tpYaZkxWGAyFGMmqO1fqxVg/edit?usp=sharing)
 
 
