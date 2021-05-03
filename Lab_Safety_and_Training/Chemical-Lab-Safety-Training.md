@@ -35,6 +35,7 @@
 - You can find a list of all solid chemicals in that cabinet [here](https://docs.google.com/spreadsheets/d/1yDtKuec2nwIWYFENB9Ll93Q8GENJnJBYu026NQuk3zk/edit?usp=sharing)
 - All flammable liquids are stored in the flammable cabinet under the hood. Not all liquids are from the PPP labs, some are from the Thornber lab. When using this cabinet, **make sure the doors latch when closed**. If you do not latch the door, it is no longer fire-proof
 - You can find a list of all flammable chemicals in that cabinet for our labs [here](https://docs.google.com/spreadsheets/d/1tYZ34OU6GBhAvuHS4IEkn64MvySKwOOeeKIhfnNXUkI/edit#gid=0)
+- We also have a fire-proof 4 degree fridge, opposite the titrator in the organismal lab. For anything that needs to be kept cold and is also flammable, they are stored there. For example, tissue samples stored in ethanol are kept in this fridge. **We do not have a fire-proof freezer**
 - All acid storage is in the acid cabinet also under the hood. There are also some Thornber lab chemicals in there
 - You can find a list of all acid chemicals in that cabinet for our labs [here](https://docs.google.com/spreadsheets/d/1JE6HakGNpniX6lm_KX9suQDHxghloytCORpnpKGzzDg/edit#gid=0)
 - Zinc-buffered formalin is stored in cabinet J9
@@ -52,13 +53,18 @@
 **Sharps Management**
 - When working with razor blades or scalpels, you must dispose of them in the sharps container
 - When working with syringes, they must be capped before disposal in the sharps container
-- A full sharps container can be taped securely shut and disposed of in the regular trash
+- A full sharps container can be taped securely shut and disposed of in the dumpster outside of the loading dock
 - All broken glass should be cleaned up with a broom/sweeper (if possible) and disposed of in the glassware disposal box
 - A full glassware disposal box must be taped closed and gently disposed of in the dumpster outside of the loading dock
 
 **Liquid/Hazardous Waste Management**
 - Before starting a new protocol, determine if any waste you'll generate is going to be hazardous or if it can be disposed of in the trash or sink safely
-- Look in the SDS, protocol, manual, and containers for signs of corrosive, flammable, reactive, toxic, harmful to the environment, etc
+- Look in the SDS, protocol, manual, and containers for signs of corrosive, flammable, reactive, toxic, harmful to the environment, etc. **The SDS is the Safety Data Sheet**, available by googling the chemical, will tell you all the hazards of that chemical
+- **Hazard Classes** Tell you how severe one of the hazards is for the chemical you have, these are usually found in the SDS, often in the transportation section
+![](https://raw.githubusercontent.com/meschedl/PPP-Lab-Resources/master/images/2b49b5b7acc6e477deee91ef7f60cd4c.jpg)
+- **HCS Pictograms** are often on the bottle or container and will warn you to types of hazards are present
+![](https://raw.githubusercontent.com/meschedl/PPP-Lab-Resources/master/images/Screen%20Shot%202021-04-29%20at%201.01.38%20PM.png)
+- For specifics on what hazards pertain to the chemical, look in the SDS
 - If your solutions have any of these, the waste should be treated as hazardous and disposed of in a SAA (satellite accumulation area)
 - Store waste in a waste beaker while doing the protocol and use it to pour into the waste container at the SAA when done. Choose a waste container appropriate to the waste, most of what we use can be stored in any plastic bottle, but be sure to check if you waste needs to be stored in a glass bottle.
 - There are extra bottles that can be used for hazardous waste storage around the main SAA and in the drawer below it. You should save large buffer/water/chemical bottles from your procedures so they can be later on used as waste bottles
@@ -101,32 +107,45 @@
 - **1-Bromo-3-Cholorpropane** (fume hood and waste bag)
 - **Titrator waste with Mercuric Chloride** (just solid waste bag)
 
+**Diluting or Mixing Chemicals for Lab Use**
+- If you are using any of the chemicals (solids or liquids) to make a stock solution (ie a buffer or a reagent from scratch), make sure to determine if the container you plan to use can hold the solution
+- Write out the full chemical names of the solution on tape on the container, **do not abbreviate**. For example, TE buffer should be labeled as Tris-Ethylenediaminetetraacetic acid Buffer. If you need to write on the abbreviation to recognize it, write both
+- If the solution contains hazardous chemicals, write out the hazard on the new container (ie flammable, toxic, etc)
+
 ### What to do if There is a Spill or Exposure on Yourself of Something Hazardous
 
-Notify someone else who is physically in the lab with you immediately, preferably the lab manager if there, so they can help you.  
-If it is an emergency, call 911.
+**Notify someone else who is physically in the lab with you immediately, preferably the lab manager if there, so they can help you and call for help (911) if needed.**
 
 **Spills**
-- Determine if you can clean it up safely or if you need to leave the room because of hazardous vapors. If the spill is in the fume hood, evacuation is not necessary. If the spill is only a few drops, evacuation is likely not necessary. If it is a large spill outside the fume hood of something with hazardous vapors (any chemical from list above), evacuate to be safe and call 911 and/or EHS 401-874-7993. **We do not have respirators in the lab, so for most spills out of the fume hood it is not safe to clean them up yourself**
+- Determine if you can clean it up safely or if everyone in the lab need to leave the room because of hazardous vapors. If the spill is in the fume hood, evacuation is not necessary. If the spill is only a few drops, evacuation is likely not necessary. If it is a large spill outside the fume hood of something with hazardous vapors (any chemical from list above), evacuate to be safe and call 911 and/or EHS 401-874-7993. **We do not have respirators in the lab, so for most spills out of the fume hood it is not safe to clean them up yourself**
+- If the spill is of something non-vaporous, and only slightly hazardous (health hazard of 1) because it is a skin irritant or similarly minimal risk, it can be cleaned up with paper towels and proper PPE
 - If the spill is small and in the fume hood, you can use our chemical spill kit to neutralize and clean the spill. Look at the [Chemical Spill Kit Guide](https://drive.google.com/file/d/1PeaNoxMWFl0mIAGyPSmKvZskGVyXm-hi/view?usp=sharing) for reference of what chemicals they can be used on
 - For acid spills (HCl) use Spill-X-A
 - For caustic (basic) spills (NaOH) use Spill-X-C
 - For solvent spills (acetone, methanol, isopropanol, chloroform) use Spill-X-S
 - For Tri-Reagent or Trizol (Phenol) spills, use sodium bicarbonate
-- For formalin or zinc buffered formalin use the polyform container also in cabinet J3
+- For formalin or zinc buffered formalin use the polyform container also in cabinet J10
 - When using any of the spill kit solids, pour them in a circle around the spill then over the spill. Use the paddle in the spill kit to mix the liquid with the solids. For complete neutralization, there should no longer be liquids and the substances should be solidified
-- Use a dustpan to scrape the neutralized solid into one of the hazardous waste bags in the spill kit. Label appropriately and dispose of in the soild waste bag
+- Use a dustpan to scrape the neutralized solid into one of the hazardous waste bags in the spill kit. Label appropriately and dispose of in the solid waste bag
 - When in doubt, call EHS about any spill
-- Beta-Mercaptoethanol should be cleaned by Wet-Vac and thus needs EHS help to clean
-- Report the spill to the lab manager and your PI
+- Do not try to clean up acetonitrile or beta-mercaptoethanol spills yourself, call EHS
+- Report the spill to the lab manager and your PI and decided if an [Incident Report Form](https://web.uri.edu/ehs/incident-reporting-form/) needs to be filled out
 
 **Personal Exposure**
--
-
+- Depending on the exposure, decide how to cleanse yourself
+- If in or around the eye area, go to the eye-wash station and flush your eyes for 10-15 minutes. The alarm will go off when the eye-wash is activated. If pain or irritation still persists, seek medical attention rapidly. Contact your doctor for any level of exposure, and have the SDS ready to give to them
+- If it is an exposure on the hands or wrists, wash in the sink with soap and water for 15 minutes. Contact medical attention if necessary and have the SDS for the chemical ready to give to them
+- For large exposures, use the safety shower. Remove all clothing necessary to rinse the effected area. Rinse for 10-15 minutes. For large exposures, contact EHS, call 911 or seek immediate medical attention somehow
+- If there is any question about how you feel after a small exposure, err on the side of seeking medical attention
+- **For all exposures, tell the lab manager and your PI. An [Incident Report Form](https://web.uri.edu/ehs/incident-reporting-form/) has to be filled out within 24 hours**
 
 
 ### Questions
 
 **Please respond to these questions and send your responses to Maggie meschedl@uri.edu**
 
-- Pick one of the very hazardous chemicals from the list above and find the SDS online. List the physical, health, flammable, and instability hazard class.
+1. Pick one of the very hazardous chemicals from the list above and find the SDS online. List the physical, health, flammable, and instability hazard class. Also identify and list all the health risks if exposed, and first aid measures.
+2. Name 2 engineering controls present in the lab.
+3. Why should you never work in the lab alone when using very hazardous chemicals?
+4. Go to the [waste pickup form](https://web.uri.edu/ehs/online-pickup/) and familiarize yourself with the form. Fill in some hypothetical waste to be picked up and screen shot it
+5. What would you do if someone else working in the lab spills something very hazardous on themselves and it is only you two in the lab?
