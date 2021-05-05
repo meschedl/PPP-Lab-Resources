@@ -102,7 +102,7 @@
 - **Methanol** (fume hood and waste bag)
 - **Acetonitrile** (fume hood and waste bag)
 - **Chloroform or Chlorofom/Isoamy Alcohol** (fume hood and waste bag)
-- **Formalin or Zinc Buffered Formalin** (fume hood and waste bag)
+- **Neutral Buffered Formalin or Zinc Buffered Formalin** (fume hood and waste bag)
 - **Beta-Mercaptoethanol** (fume hood and waste bag)
 - **1-Bromo-3-Cholorpropane** (fume hood and waste bag)
 - **Titrator waste with Mercuric Chloride** (just solid waste bag)
