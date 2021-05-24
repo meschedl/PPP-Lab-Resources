@@ -83,7 +83,7 @@ Prevention of cross contamination
 Be careful to use the correct pipette. Use distilled water. You don’t have to change tips for these exercises. As you do these exercises, look at the pipette tip when it is holding a volume so you can learn to check your pipetting visually.
 
 **P1000 (200-1000 µl) – 7 1.5mL microcentrifuge tubes:**
-1.	Add 1000 µl to three eppendorf tubes.
+1.	Add 1000 µl to three 1.5mL tubes.
 2.	Visually check that each tube has the same volume.
 3.	Remove 750 µl from each tube and pipette into three new tubes.
 4.	Visually check that each tube has the same volume.
@@ -101,11 +101,11 @@ Be careful to use the correct pipette. Use distilled water. You don’t have to 
 13.	Remove 20 µl from the original strip tubes and pipette into one new tube.
 14.	Remove 160 µl from this tube and discard pipette tip.
 
-**P20 (10-20 µl) – 1 set of 8-strip tubes and 1 1.5mL tube:**
+**P20 and p200 (10-20 µl and 20-200ul) – 1 set of 8-strip tubes and 1 1.5mL tube:**
 
 15.	Add 18 µl to each well of a set of strip tubes.
 16.	Visually check that each tube has the same volume.
-17.	Remove 12 µl from each well and pipette into one new tube.
+17.	Remove 12 µl from each well and pipette into one new 1.5mL tube.
 18.	Remove 96 µl from this tube and discard.
 
 **P20 (10-20 µl) – 1 set of 8-strip tubes:**
