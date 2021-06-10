@@ -106,6 +106,10 @@
 - **Beta-Mercaptoethanol** (fume hood and waste bag)
 - **1-Bromo-3-Cholorpropane** (fume hood and waste bag)
 - **Titrator waste with Mercuric Chloride** (just solid waste bag)
+- **Sulfuric Acid** (fume hood and waste bag)
+- **Phosphoric Acid** (fume hood and waste bag)
+- **4% Paraformaldehyde** (fume hood and waste bag)
+- **Benzalkonium Chloride** (fume hood and waste bag)
 
 **Diluting or Mixing Chemicals for Lab Use**
 - If you are using any of the chemicals (solids or liquids) to make a stock solution (ie a buffer or a reagent from scratch), make sure to determine if the container you plan to use can hold the solution
