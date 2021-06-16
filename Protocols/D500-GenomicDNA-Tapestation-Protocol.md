@@ -15,6 +15,7 @@
 
 Ex:
 ![](https://raw.githubusercontent.com/meschedl/MESPutnam_Open_Lab_Notebook/master/images/DNA-Tape-Ex.png)
+
 9. Put on tube caps and vortex for 1 minute in IKA vortexer
 10. Spin down tubes
 13. Turn on the TS laptop

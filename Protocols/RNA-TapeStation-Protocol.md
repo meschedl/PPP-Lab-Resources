@@ -15,6 +15,7 @@
 
 Ex:
 ![](https://raw.githubusercontent.com/meschedl/MESPutnam_Open_Lab_Notebook/master/images/RNA-Tape-Ex.png)
+
 9. Put on tube caps and vortex for 1 minute in IKA vortexer
 10. Spin down tubes
 11. Turn on Thermocyler. Login to JONP (1234). Put tube strip(s) in Thermocyler and balance for the lid. Run program **rna denature** (6 minutes)
