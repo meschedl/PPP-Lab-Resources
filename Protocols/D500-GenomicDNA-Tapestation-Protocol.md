@@ -1,11 +1,4 @@
----
-layout: post
-title: PPP Lab Genomic and D5000 Tape Station Protocol
-category: [ Protocol ]
-tags: [ DNA ]
----
-
-## Agilent [Tape Station 4200](https://www.agilent.com/en/promotions/agilent-4200-tapestation-system?gclid=EAIaIQobChMI_tykoMrw4AIVFI7ICh2S3AZFEAAYASAAEgIqEPD_BwE&gclsrc=aw.ds)
+## Agilent [Tape Station 4200](https://www.agilent.com/en/promotions/agilent-4200-tapestation-system?gclid=EAIaIQobChMI_tykoMrw4AIVFI7ICh2S3AZFEAAYASAAEgIqEPD_BwE&gclsrc=aw.ds) DNA Protocol
 
 ### Setup
 
@@ -21,7 +14,7 @@ tags: [ DNA ]
 8. Add 1µl of each sample to each sample tube
 
 Ex:
-![Tubes Ex]({{ site.baseurl}}/images/DNA-Tape-Ex.png "Tubes Ex")
+![](https://raw.githubusercontent.com/meschedl/MESPutnam_Open_Lab_Notebook/master/images/DNA-Tape-Ex.png)
 9. Put on tube caps and vortex for 1 minute in IKA vortexer
 10. Spin down tubes
 13. Turn on the TS laptop

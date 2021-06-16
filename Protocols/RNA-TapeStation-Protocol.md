@@ -1,11 +1,4 @@
----
-layout: post
-title: PPP Lab RNA Tape Station Protocol
-category: [ Protocol ]
-tags: [ RNA ]
----
-
-## Agilent [Tape Station 4200](https://www.agilent.com/en/promotions/agilent-4200-tapestation-system?gclid=EAIaIQobChMI_tykoMrw4AIVFI7ICh2S3AZFEAAYASAAEgIqEPD_BwE&gclsrc=aw.ds)
+## Agilent [Tape Station 4200](https://www.agilent.com/en/promotions/agilent-4200-tapestation-system?gclid=EAIaIQobChMI_tykoMrw4AIVFI7ICh2S3AZFEAAYASAAEgIqEPD_BwE&gclsrc=aw.ds) RNA Protocol
 
 ### Setup
 
@@ -21,7 +14,7 @@ tags: [ RNA ]
 8. Add 1µl of each sample to each sample tube
 
 Ex:
-![Tubes Ex]({{ site.baseurl}}/images/RNA-Tape-Ex.png "Tubes Ex")
+![](https://raw.githubusercontent.com/meschedl/MESPutnam_Open_Lab_Notebook/master/images/RNA-Tape-Ex.png)
 9. Put on tube caps and vortex for 1 minute in IKA vortexer
 10. Spin down tubes
 11. Turn on Thermocyler. Login to JONP (1234). Put tube strip(s) in Thermocyler and balance for the lid. Run program **rna denature** (6 minutes)
