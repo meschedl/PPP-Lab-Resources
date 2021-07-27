@@ -3,7 +3,7 @@
 #### Goal:
 Amplify the mtORF region (mitochondrial open reading frame) of _Pocillopora_ coral DNA using PCR (polymerase chain reaction). Then use amplification product for Sanger Sequencing and determination of _Pocillopora_ coral species. Primer sequences and concept developed in [Johnston et. al 2018](https://peerj.com/articles/4355/).
 
-Information on Sanger sequencing at the URI GSC is [here](https://web.uri.edu/gsc/sanger_sequencing/). Sequencing takes place after 10am on Tuesdays and Thursdays.  
+Information on Sanger sequencing at the URI GSC is [here](https://web.uri.edu/gsc/sanger_sequencing/). Sequencing takes place after 10am on Tuesdays and Thursdays. **To bring samples to be sequenced, the GSC is now in Pharmacy. Bring the samples tubes or plates in a bag with the sample sheet (last step) to Pharmacy room 287 and put in the freezer there. That is on the second floor in the back across from the fake CVS**
 
 #### Materials and Equipment:
 
@@ -111,11 +111,11 @@ Information on Sanger sequencing at the URI GSC is [here](https://web.uri.edu/gs
 #### Qubit or Plate Reader Assay and Gel
 
 1. Use the broad range dsDNA Qubit assay to quantify every one of the amplified and cleaned samples
-2. [Qubit protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Qubit-Protocol/)
+2. [Qubit protocol](https://github.com/meschedl/PPP-Lab-Resources/blob/master/Protocols_and_Lab_Resources/DNA_Quality_Control/Qubit-Assay-Protocol.md)
 3. If you have over 20-30 samples, you can use the plate reader to quantify your DNA using the Biotium PicoGreen Assay
-4. [Plate Reader Protocol](https://github.com/meschedl/PPP-Lab-Resources/blob/master/Protocols/Biotium-BroadRange-DNA-PlateReader.md)
+4. [Plate Reader Protocol](https://github.com/meschedl/PPP-Lab-Resources/blob/master/Protocols_and_Lab_Resources/DNA_Quality_Control/Biotium-BroadRange-DNA-PlateReader.md)
 3. Run a 1% gel on all of the amplified and cleaned samples, use a 1kb plus DNA ladder. There should be 1 band at ~1000bp. Other bands are signs of potential contamination or off target amplification
-4. [Gel protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Gel-Protocol/)
+4. [Gel protocol](https://github.com/meschedl/PPP-Lab-Resources/blob/master/Protocols_and_Lab_Resources/DNA_Quality_Control/Agrose-Gel-Protocol.md)
 
 #### Prep for sequencing (post PCR bench)
 
@@ -132,10 +132,9 @@ For mtORF the calculation is: ((1000/100)* 1.25) * 2 = 25. That means you'll nee
 2. Dilute one of the primers to 3.2uM in volume for 2ul per sample. Calculate # of samples * 2 to get the volume. You can use this [solution dilution calculator](https://www.sigmaaldrich.com/chemistry/stockroom-reagents/learning-center/technical-library/solution-dilution-calculator.html) to calculate how to dilute the primer in that volume
 3. Calculate volume of DNA for 25ng for each sample (use the dilution factor you used on your previous qubit values)
 4. Aliquot plate of DNA (not including negative controls) with 25ng of DNA per sample and nuclease free water up to 10ul for each well. Using a plate map here where you highlight off each well after adding the right amount is very helpful. Each well will have a different amount of DNA and water. Also make sure the samples go in the order you have planned because plates do not have room for labels
-![25plate]({{ site.baseurl}}/images/25ng-plate.png "2")
+![](https://raw.githubusercontent.com/meschedl/MESPutnam_Open_Lab_Notebook/master/images/25ng-plate.png)
 5. Add 2ul of 3.2uM primer to each well and cover with a foil seal. Label the seal with something like "Putnam Lab samples for Sanger sequencing, X number of samples, date, initials etc"
-6. Prepare a spreadsheet for GSC with all of this information. You can use the document provided by the GSC [link](https://github.com/meschedl/MESPutnam_Open_Lab_Notebook/blob/master/company-protocols/New_RIGSC_Sub_Form.doc), or you can make your own spreadsheet and attach it in an email to the GSC (see below). It's basically all the calculations you did for the correct amount of DNA for the template, so the GSC knows how much DNA there is and the fragment length. Email this sheet to the GSC at jatoyan@uri.edu or gsc@etal.uri.edu saying you are submitting how ever many samples for Sanger sequencing for the Putnam Lab using her blanket PO (purchase order). Include the label on top of the plate that you wrote. Notice the Sample ID column for the GSC uses a sample code that is 3 letters then a number, which makes it easier for the GSC. Make sure you know what GSC sample ID matches with your sample numbers
-![sheet]({{ site.baseurl}}/images/GSC-sheet.png "3")
-7. Take plate/tubes up to the GSC and place in freezer next to the door. There is a place on the top shelf that with a label that says "samples for GSC sequencing", place your tubes or plate in there or near that rack
+6. Prepare a spreadsheet for GSC with all of this information. Download [this file](https://github.com/meschedl/PPP-Lab-Resources/blob/master/Protocols_and_Lab_Resources/Files/Sanger_GSC_Sheet_Template.xls) and it is a blank Excel sheet of the image below. . It's basically all the calculations you did for the correct amount of DNA for the template, so the GSC knows how much DNA there is and the fragment length. Email this sheet to the GSC at jatoyan@uri.edu or gsc@etal.uri.edu saying you are submitting how ever many samples for Sanger sequencing for the Putnam Lab using her blanket PO (purchase order). Include the label on top of the plate that you wrote. Notice the Sample ID column for the GSC uses a sample code that is 3 letters then a number, which makes it easier for the GSC. Make sure you know what GSC sample ID matches with your sample numbers
+![](https://raw.githubusercontent.com/meschedl/MESPutnam_Open_Lab_Notebook/master/images/GSC-sheet.png)
 
-You should get the sequences back the next day!
+You should get the sequences back the next day after sequencing!

@@ -3,7 +3,7 @@
 #### Goal:
 Amplify the histone 3 region region  of _Pocillopora_ coral DNA using PCR (polymerase chain reaction). Then use amplification product for Sanger Sequencing and determination of _Pocillopora_ coral species between _P. eydouxi_ and _P. meandrina_. Primer sequences and concept developed in [Johnston et. al 2018](https://peerj.com/articles/4355/).
 
-Information on Sanger sequencing at the URI GSC is [here](https://web.uri.edu/gsc/sanger_sequencing/). Sequencing takes place after 10am on Tuesdays and Thursdays.
+Information on Sanger sequencing at the URI GSC is [here](https://web.uri.edu/gsc/sanger_sequencing/). Sequencing takes place after 10am on Tuesdays and Thursdays. **To bring samples to be sequenced, the GSC is now in Pharmacy. Bring the samples tubes or plates in a bag with the sample sheet (last step) to Pharmacy room 287 and put in the freezer there. That is on the second floor in the back across from the fake CVS**
 
 #### Materials and Equipment:
 
@@ -49,7 +49,7 @@ Information on Sanger sequencing at the URI GSC is [here](https://web.uri.edu/gs
 1. Dilute all samples to 10ng/ul in 10, 20, or 25ul
 2. For a lot of samples (20+) I recommend making dilutions in a plate, so they can be easily added to reaction plates in the exact same order with a mulichannel pipette. You can even add in wells with just water as negative controls to the dilution plate, so that the "water sample" gets multichannel pipetted at the same time as your sample DNA. I also recommend making plate maps for dilutions, one for the order of your samples, one for the amount of DNA to add, and one for the amount of water to add. DNA 1.5mL tubes can be organized in the exact order of the plate on a large black rack (96 spots) as well for visual ease. See example below of plate layout and sample layout for a dilution plate of 32 samples and 3 negative controls (just water). This was printed out and each cell was highlighted when the amount of liquid was added.
 
-![dilplate]({{ site.baseurl}}/images/dilution-plate.png "1")
+![](https://raw.githubusercontent.com/meschedl/MESPutnam_Open_Lab_Notebook/master/images/dilution-plate.png)
 
 3. However many microliters you chose to do the dilution in depends some on the concentration of DNA you start with. As you can see above many of the samples had less than 10ng/ul as their starting concentration. Those samples were just used as is. And the low concentrations was why I chose to dilute in 10ul total to not use too much DNA.
 4. Add the planned ng of DNA to their planned well in a plate and the planned ul of UltraPure water to their wells
@@ -111,11 +111,11 @@ Information on Sanger sequencing at the URI GSC is [here](https://web.uri.edu/gs
 #### Qubit or Plate Reader Assay and gel
 
 1. Use the broad range dsDNA Qubit assay to quantify every one of the amplified and cleaned samples, or if doing more than ~30, use the plate reader
-2. [Qubit protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Qubit-Protocol/)
+2. [Qubit protocol](https://github.com/meschedl/PPP-Lab-Resources/blob/master/Protocols_and_Lab_Resources/DNA_Quality_Control/Qubit-Assay-Protocol.md)
 3. If you have over 20-30 samples, you can use the plate reader to quantify your DNA using the Biotium PicoGreen Assay
-4. [Plate Reader Protocol](https://github.com/meschedl/PPP-Lab-Resources/blob/master/Protocols/Biotium-BroadRange-DNA-PlateReader.md)
+4. [Plate Reader Protocol](https://github.com/meschedl/PPP-Lab-Resources/blob/master/Protocols_and_Lab_Resources/DNA_Quality_Control/Biotium-BroadRange-DNA-PlateReader.md)
 3. Run a 1% gel on all of the amplified and cleaned samples, use a 1kb plus DNA ladder. There should be 1 band at ~670bp. Other bands are signs of potential contamination or off target amplification
-4. [Gel protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Gel-Protocol/)
+4. [Gel protocol](https://github.com/meschedl/PPP-Lab-Resources/blob/master/Protocols_and_Lab_Resources/DNA_Quality_Control/Agrose-Gel-Protocol.md)
 
 #### Prep for sequencing (post PCR bench)
 
@@ -134,8 +134,8 @@ For PocHistone the calculation is: ((669/100)* 1.25) * 2 = 16.7. That means you'
 4. Aliquot plate of DNA (not including negative controls) with 16.7ng of DNA per sample and nuclease free water up to 10ul for each well. If you did a dilution on your sample, use this. Using a plate map here where you highlight off each well after adding the right amount is very helpful. Each well will have a different amount of DNA and water. Also make sure the samples go in the order you have planned because plates do not have room for labels
 ![](https://raw.githubusercontent.com/meschedl/MESPutnam_Open_Lab_Notebook/master/images/16ng.png)
 5. Add 2ul of 3.2uM reverse primer to each well and cover with a foil seal. Label the seal with something like "Putnam Lab samples for Sanger sequencing, X number of samples, date, initials etc"
-6. Prepare a spreadsheet for GSC with all of this information. You can use the document provided by the GSC [link](https://github.com/meschedl/MESPutnam_Open_Lab_Notebook/blob/master/company-protocols/New_RIGSC_Sub_Form.doc), or you can make your own spreadsheet and attach it in an email to the GSC (see below). It's basically all the calculations you did for the correct amount of DNA for the template, so the GSC knows how much DNA there is and the fragment length. Email this sheet to the GSC at jatoyan@uri.edu or gsc@etal.uri.edu saying you are submitting how ever many samples for Sanger sequencing for the Putnam Lab using her blanket PO (purchase order). Include the label on top of the plate that you wrote. Notice the Sample ID column for the GSC uses a sample code that is 3 letters then a number, which makes it easier for the GSC. Make sure you know what GSC sample ID matches with your sample numbers
-![sheet]({{ site.baseurl}}/images/GSC-template-2.png "3")
-7. Take plate/tubes up to the GSC and place in freezer next to the door. There is a place on the top shelf that with a label that says "samples for GSC sequencing", place your tubes or plate in there or near that rack
+6. Prepare a spreadsheet for GSC with all of this information. Download [this file](https://github.com/meschedl/PPP-Lab-Resources/blob/master/Protocols_and_Lab_Resources/Files/Sanger_GSC_Sheet_Template.xls) and it is a blank Excel sheet of the image below. It's basically all the calculations you did for the correct amount of DNA for the template, so the GSC knows how much DNA there is and the fragment length. Email this sheet to the GSC at jatoyan@uri.edu saying you are submitting how ever many samples for Sanger sequencing for the Putnam Lab using her blanket PO (purchase order). CC Hollie on this email. Include the label on top of the plate that you wrote. Notice the Sample ID column for the GSC uses a sample code that is 3 letters then a number, which makes it easier for the GSC. Make sure you know what GSC sample ID matches with your sample numbers, include this in your personal spreadsheet.
+![](https://raw.githubusercontent.com/meschedl/MESPutnam_Open_Lab_Notebook/master/images/GSC-template-2.png)
 
-You should get the sequences back the next day!
+
+You should get the sequences back the next day after sequencing! 

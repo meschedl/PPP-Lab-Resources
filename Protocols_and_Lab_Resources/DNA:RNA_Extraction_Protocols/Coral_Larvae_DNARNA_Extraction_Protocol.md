@@ -162,20 +162,20 @@
 ### QC
 
 **Qubit: Broad Range DNA and High Sensitivity or Broad Range RNA**  
-- Follow Qubit [protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/Qubit-Protocol/)
+- Follow Qubit [protocol]((https://github.com/meschedl/PPP-Lab-Resources/blob/master/Protocols_and_Lab_Resources/DNA_Quality_Control/Qubit-Assay-Protocol.md)
 - Read samples twice and average readings
 - Make sure to record standards
 
 **DNA Gel**
-- Follow [Gel Protocol](https://github.com/meschedl/PPP-Lab-Resources/blob/master/Protocols/Agrose-Gel-Protocol.md)
+- Follow [Gel Protocol](https://github.com/meschedl/PPP-Lab-Resources/blob/master/Protocols_and_Lab_Resources/DNA_Quality_Control/Agrose-Gel-Protocol.md)
 - Suggestions are to:
   - Make a 1% gel and run for 1hr at 100V
   - Use 3ul 1kb plus DNA ladder
   - Use gel green
 
 **RNA NanoDrop**
-- Follow [NanoDrop RNA Protocol](https://github.com/meschedl/PPP-Lab-Resources/blob/master/Protocols/Nanodrop-RNA.md)
+- Follow [NanoDrop RNA Protocol](https://github.com/meschedl/PPP-Lab-Resources/blob/master/Protocols_and_Lab_Resources/RNA_Quality_Control/Nanodrop-RNA.md)
 - Print out and take pictures of results table and traces graph
 
 **RNA TapeStation**
-- Follow RNA TapeStation [protocol](https://meschedl.github.io/MESPutnam_Open_Lab_Notebook/RNA-TapeStation-Protocol/)
+- Follow RNA TapeStation [protocol](https://github.com/meschedl/PPP-Lab-Resources/blob/master/Protocols_and_Lab_Resources/RNA_Quality_Control/RNA-TapeStation-Protocol.md)
