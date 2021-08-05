@@ -15,8 +15,11 @@ There are also pictures of all the containers that safely hold LN2 for various p
 
 ### Containers in our lab the can hold LN2
 
-Thermoflask (Puritz Lab). Can be used to transport LN2 briefly from other floors in CBLS and around the lab. Can be used for flash freezing.
+Thermoflask (Puritz Lab). Can be used to transport LN2 briefly from other floors in CBLS and around the lab. Can be used for flash freezing.  
 ![](https://raw.githubusercontent.com/meschedl/PPP-Lab-Resources/master/images/IMG_4563.jpg)   
+
+Thermoflask (Prada Lab). Can be used to transport LN2 briefly from other floors in CBLS and around the lab. Can be used for flash freezing.   
+![](https://raw.githubusercontent.com/meschedl/PPP-Lab-Resources/master/images/Screen%20Shot%202021-08-05%20at%201.50.11%20PM.png)
 
 White Nalgene container. Used mostly for pouring off into. The lid isn't completely secure, you can use it to move LN2 around the room. But it's mostly too large to pour. Can be used for flash freezing.
 ![](https://raw.githubusercontent.com/meschedl/PPP-Lab-Resources/master/images/IMG_4567.jpg)    
@@ -55,22 +58,25 @@ Large cooler, used **only** for pouring off small amounts of excess LN2. It is n
 ### Charging dry shippers
 - Start charging ~24 hours before needed, this allows for longer charging, and the amount of LN2 left to pour off is usually less (easier to deal with)
 - Take the shipper out of the container
-- Place on the ground or on the trolly under the LN2 hose (use the trolly if extra height is needed)
+- Place the small dry shipper on the step stool to give it more height. For the large dry shippers, use the small scooter cart, this gives it more height and also allows you to wheel it to move it when full of LN2
+- If you are using the small dry shipper, take out the insert tube and put in a -80 to keep chilled. Do not fill with the insert inside, they are not designed for that
 - Put on cryo gloves or latex palm gloves (you should use the cryo gloves for touching the hose, but sometimes the valve is hard to turn, so the latex palm gloves can be helpful to get an initial grip to open it)
 - Take out the lid and put the hose inside the shipper
-- Slowly turn the liquid valve open (to the right), there should be loud sounds as the pressure is being released and the hose cools down enough to allow liquid to pass through
-- Wait until you can see liquid coming out of the phase separator before adjusting how much is coming out of the hose. Don't have it come out fast though, this can cause pressure to build up inside the dry shipper dangerously, and it can cause a release in pressure inside the cylinder too quickly
+- Slowly turn the liquid valve open (to the right), there should be loud sounds as the pressure is being released and the hose cools down enough to allow liquid to pass through. **NOTE**, each tank of LN2 is different. Some tanks need only barely a turn before any sound, other tanks require 2 whole turns before anything comes out. Be cautious and turn very slowly if you don't know what the specifics are for this tank
+- You will hear sounds at first: this is the gas nitrogen shooting out of the phase separator at the bottom of the hose. The hose needs to chill down before liquid can pass through it. **DO NOT** crank open the valve if liquid doesn't immediately come out, the hose has to get very cold before it can go through
+- Wait until you can see liquid coming out of the phase separator before adjusting how much is coming out of the hose. Start slow and adjust up, fast moving LN2 can splash and burn you. Don't have it come out fast though, this can cause pressure to build up inside the dry shipper dangerously, and it can cause a release in pressure inside the cylinder too quickly. See [this link](https://drive.google.com/file/d/1FZQrLs4ICHgxuS3OcmlR1x4jRo3x7ayp/view?usp=sharing) for the fastest speed LN2 should be coming out of the hose
 - Stay with the dry shipper as you fill it
 - Fill until the container is mostly full, do not fill above the metal inner canister
 - Turn the valve back closed and wait until the hose stops dripping LN2 before removing from inside the shipper
-- Put the lid back in the shipper and slide the shipper into the open space right next to the tank
-- Put a stickie note on the shipper that says "Do not touch, charging with LN2"
-- Let the shipper charge for ~24 hours if possible
-- When ready to pour off, **you must have two people**
+- Put the lid back in the shipper. The small shipper is light enough to be lifted safely and placed back into its' transport box. Slide the box into the empty space near the LN2 tank. The large dry shipper should stay on the push cart, if there is room near the tank you can place it there, otherwise find a low traffic area in the lab to store it overnight
+- Use one of the tags that says "DO NOT TOUCH, DRY SHIPPER CHARGING WITH LIQUID NITROGEN" to place on top of the dry shipper so that others in the lab do not touch it
+- **Let the shipper charge for ~24 hours if possible**
+- When ready to pour off, check the level of LN2 by taking a broom and dipping the handle side into the dry shipper. You will be able to hear the liquid nitrogen boiling when it hits the liquid line
+- If using the small dry shipper, it is light enough for 1 person to pour off safely. If using the **large dry shipper, two people must be there to pour off**
 - Use the white tall container or a large styrofoam cooler as containers to pour off the LN2 into, do not pour onto the floor
-- Make sure you're wearing eye protection and proper clothes/lab coat
+- Make sure you're wearing eye protection and proper clothes/lab coat, and it can be helpful to wear the latex palm gloves for grip
 - Have both people have one hand on the handle and one hand under the shipper to lift and pour off the liquid into the container. Communicate and take breaks if needed. The shipper with liquid is probably ~70lbs or more. Be mindful of how you're feeling, and if you feel weird, stop immediately
 - Our lab has pretty tall ceilings and is open to the main lab space, but you can also prop open wide the lab door to add extra ventilation
-- Usually there is a trickle of LN2 coming out of the shipper for longer than you'd expect, so wait for that to stop before putting the shipper down and back into the case
-- Once it's empty and back in the case, you can fill it with your samples or send it away
-- For the container holding the excess LN2, cover with the lid and place in a well-ventilated place with no traffic (besides the tank is ok, or under an unused bench). Put a stickie note on it that says "Do not touch, LN2"
+- Pour out all the liquid you can see and set the shipper back on the ground. Wait 10 seconds, then lift and pour again. There will be more liquid that comes out the second time. Set the shipper down, wait, and pour off again a third time. Pour off 3 times to make sure that there is no liquid left in the shipper
+- Once empty, you can put the shipper back in the travel case, and the metal insert back into the small shipper
+- For the container holding the excess LN2, cover with the lid and place in a well-ventilated place with no traffic (besides the tank is ok, or under an unused bench). Put the red tag that says "DO NOT TOUCH, EXCESS LIQUID NITROGEN" on it. Make sure you put the holder in a place where no one is likely to tip it over
