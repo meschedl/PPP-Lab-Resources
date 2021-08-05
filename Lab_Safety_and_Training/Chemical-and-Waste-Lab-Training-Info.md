@@ -83,6 +83,7 @@
 **Solid Hazardous/Non-Hazardous Gel Waste Management**
 - For pipette tips, gloves, tubes, paper towels, and other materials that come in contact with our really hazardous materials (see below), these cannot go in the trash and should be disposed of as solid hazardous wastes
 - Make a ziploc bag with a hazardous waste label that says "solid wastes with X chemical residue" on it
+- **You must use a ziploc bag that has NO CRACKS OR BREAKS, it must seal completely. Do NOT overfill the bag so you cannot close it.**
 - Eject tips into that bag and put other solid wastes into it
 - Store the waste bag in the solid waste SAA (black bucket by the fume hood)
 ![](https://raw.githubusercontent.com/meschedl/PPP-Lab-Resources/master/images/IMG_5191.jpg)
@@ -110,6 +111,7 @@
 - **Phosphoric Acid** (fume hood and waste bag)
 - **4% Paraformaldehyde** (fume hood and waste bag)
 - **Benzalkonium Chloride** (fume hood and waste bag)
+- **Phenol** (fume hood and waste bag)
 
 **Diluting or Mixing Chemicals for Lab Use**
 - If you are using any of the chemicals (solids or liquids) to make a stock solution (ie a buffer or a reagent from scratch), make sure to determine if the container you plan to use can hold the solution
@@ -118,12 +120,12 @@
 
 ### What to do if There is a Spill or Exposure on Yourself of Something Hazardous
 
-**Notify someone else who is physically in the lab with you immediately, preferably the lab manager if there, so they can help you and call for help (911) if needed.**
+**Notify someone else who is physically in the lab with you immediately, preferably the lab manager or lab captain if there, so they can help you and call for help (911) if needed.**
 
 **Spills**
 - Determine if you can clean it up safely or if everyone in the lab need to leave the room because of hazardous vapors. If the spill is in the fume hood, evacuation is not necessary. If the spill is only a few drops, evacuation is likely not necessary. If it is a large spill outside the fume hood of something with hazardous vapors (any chemical from list above), evacuate to be safe and call 911 and/or EHS 401-874-7993. **We do not have respirators in the lab, so for most spills out of the fume hood it is not safe to clean them up yourself**
 - If the spill is of something non-vaporous, and only slightly hazardous (health hazard of 1) because it is a skin irritant or similarly minimal risk, it can be cleaned up with paper towels and proper PPE
-- If the spill is small and in the fume hood, you can use our chemical spill kit to neutralize and clean the spill. Look at the [Chemical Spill Kit Guide](https://drive.google.com/file/d/1PeaNoxMWFl0mIAGyPSmKvZskGVyXm-hi/view?usp=sharing) for reference of what chemicals they can be used on
+- If the spill is small and in the fume hood, you can use our chemical spill kit to neutralize and clean the spill. Look at the [Chemical Spill Kit Guide](https://github.com/meschedl/PPP-Lab-Resources/blob/master/Lab_Safety_and_Training/Documents/Spill-Kit-Treatment-Guide.pdf) for reference of what chemicals they can be used on
 - For acid spills (HCl) use Spill-X-A
 - For caustic (basic) spills (NaOH) use Spill-X-C
 - For solvent spills (acetone, methanol, isopropanol, chloroform) use Spill-X-S
@@ -141,15 +143,19 @@
 - If it is an exposure on the hands or wrists, wash in the sink with soap and water for 15 minutes. Contact medical attention if necessary and have the SDS for the chemical ready to give to them
 - For large exposures, use the safety shower. Remove all clothing necessary to rinse the effected area. Rinse for 10-15 minutes. For large exposures, contact EHS, call 911 or seek immediate medical attention somehow
 - If there is any question about how you feel after a small exposure, err on the side of seeking medical attention
-- **For all exposures, tell the lab manager and your PI. An [Incident Report Form](https://web.uri.edu/ehs/incident-reporting-form/) has to be filled out within 24 hours**
+- **For all exposures, tell the lab manager/lab captain and your PI. Multiple forms need to be filled out within 24 hours of a personal chemical exposure:**
+  - **An [Incident Report Form](https://web.uri.edu/ehs/incident-reporting-form/) from EHS**
+  - **For an EMPLOYEE a [State of Rhode Island Initial Incident Report Form](https://github.com/meschedl/PPP-Lab-Resources/blob/master/Lab_Safety_and_Training/Documents/RI-State-Initial-Injury-Report.pdf) needs to be filled out within 24 hours. This needs to be filled out with a supervisor (PI) as well as the person affected. Undergad students working over the summer are considered employees. This needs to be scanned and sent to urihr@ucs.uri.edu, and cc plmccarthy@uri.edu, as well as your PI**
+  - **For a STUDENT a [State of Rhode Island Student Accident Report Form](https://github.com/meschedl/PPP-Lab-Resources/blob/master/Lab_Safety_and_Training/Documents/Student-Accident-Report-Form-4-8-141.pdf) needs to be filled out within 24 hours. Graduate students are considered students. This needs to be scanned and sent to phallagan@uri.edu and cc your PI**
+  - **If someone WITNESSES the accident, they need to fill out the [Witness Report of Accident Form](https://github.com/meschedl/PPP-Lab-Resources/blob/master/Lab_Safety_and_Training/Documents/Witness-Form.pdf). Scan and send this in the email sent either to urihr@ucs.uri.edu or plmccarthy@uri.edu**
 
 
 ### Questions
 
-**Please respond to these questions and send your responses to Maggie meschedl@uri.edu**
+**Please respond to these questions and save them as a PDF or Word Doc and upload it to the [PPP Lab Trainings Google Form](https://docs.google.com/forms/d/e/1FAIpQLSc-GkvKIAPjyHMYcQwfDuoZZfON_4pJW19Htjad9_6jw3S_nw/viewform?usp=sf_link)**
 
 1. Pick one of the very hazardous chemicals from the list above and find the SDS online. List the physical, health, flammable, and instability hazard class. Also identify and list all the health risks if exposed, and first aid measures.
-2. Name 2 engineering controls present in the lab.
+2. Go to our solid chemical list and pick the 11th chemical. Provide the SDS link, and the catalog number for re-order. Also list the physical, health, flammable, and instability hazard class. 
 3. Why should you never work in the lab alone when using very hazardous chemicals?
 4. Go to the [waste pickup form](https://web.uri.edu/ehs/online-pickup/) and familiarize yourself with the form. Fill in some hypothetical waste to be picked up and screen shot it
 5. What would you do if someone else working in the lab spills something very hazardous on themselves and it is only you two in the lab?
