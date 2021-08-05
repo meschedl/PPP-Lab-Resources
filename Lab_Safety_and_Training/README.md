@@ -54,4 +54,10 @@ When you are done with a training, Click **access your competion records**. Then
 
 ## Liquid Nitrogen Training
 
-### If you are going to use our LN2 tanks, you MUST go through an extra training online, as well as have a senior lab member go through using the tank with you the first time you use it. If you are using dry shippers, you must have someone fill it with you the first time you are working with one.
+#### If you are going to use our LN2 tanks, you MUST go through an extra training online, as well as have a senior lab member go through using the tank with you the first time you use it. If you are using dry shippers, you must have someone fill it with you the first time you are working with one.
+
+**Go through the [PPP Specific Liquid Nitrogen Safety, Training, and Facts File](https://github.com/meschedl/PPP-Lab-Resources/blob/master/Lab_Safety_and_Training/LN2-Safety-Traning.md), and record your answers to the questions in a doc or PDF and attach to the [PPP Training Google Form](https://docs.google.com/forms/d/e/1FAIpQLSc-GkvKIAPjyHMYcQwfDuoZZfON_4pJW19Htjad9_6jw3S_nw/viewform?usp=sf_link)**
+
+This has information about how we use liquid nitrogen in our lab, what materials we have here to work with it, and how to use the specific tanks we get. This is meant to be a safety training as well as a guide on how to use our tanks.
+
+#### You also must get an 80 or 100% grade on the Compressed Gas Safety section of the CITI training to be cleared to work with LN2. 
