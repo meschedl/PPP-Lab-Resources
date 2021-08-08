@@ -45,7 +45,7 @@
 
 When you are done with a training, Click **access your competion records**. Then select **view/print completion report**, save this report and use it to upload to the [PPP Training google form](https://docs.google.com/forms/d/e/1FAIpQLSc-GkvKIAPjyHMYcQwfDuoZZfON_4pJW19Htjad9_6jw3S_nw/viewform?usp=sf_link). Make sure you select the **report** option so scores are reported.
 
-### PPP Chemical and Waste Training
+### [PPP Chemical and Waste Training](https://github.com/meschedl/PPP-Lab-Resources/blob/master/Lab_Safety_and_Training/Chemical-and-Waste-Lab-Training-Info.md)
 - This is specifics on chemicals in our lab, where they are, and how to dispose of things, and what to do in emergencies
 - **Please go back to this document!!!** It has the links to all the chemicals in the lab, links to necessary EHS info, pictograms, forms to fill out if there is a chemical exposure, etc
 - **This is where a list of all very dangerous chemicals in our lab is. It is your right as an employee to know what hazardous chemicals are in your workplace**
