@@ -1,4 +1,4 @@
-&quot;2nd PCR&quot; Library Preparation Protocol for Amplicon Libraries (ex. COI, MFU, 16S)
+# &quot;2nd PCR&quot; Library Preparation Protocol for Amplicon Libraries (ex. COI, MFU, 16S)
 
 Prada Lab
 
@@ -6,46 +6,32 @@ Written by Maggie Schedl, references from GSC protocol, Steven Doyle Illumina Am
 
 Last edited 20210506 Maggie Schedl
 
-Overall Steps
+### Overall Steps
 
 1. Normalize Volumes in Plate - this is if your samples are different volumes from the 1st PCR
-
 2. 0.8X Bead Cleanup After 1st Amplification
-
 3. Planning, Set-Up, and Running the &quot;2nd PCR&quot; Index Addition Reaction
-
 4. 0.8X Bead Cleanup After 2nd Amplification
-
 5. 1% Agarose Gel to Check for Amplification
-
 6. Biotium Broad Range DNA Quantification Assay (For less than 36 samples, if more than 36, use the [Biotium Plate Reader Assay](https://github.com/meschedl/PPP-Lab-Resources/blob/master/Protocols/Biotium-BroadRange-DNA-PlateReader.md) Protocol)
-
 7. D5000 TapeStation - Necessary for a few samples when all 2nd PCRs are done
-
 8. Determining uM, Diluting and Combining by Plates (For both COI and MFU)
-
 9. 1X Bead Cleanup after Pooling
-
-MFU ONLY 10. Double Band Size Selection
-
-MFU ONLY 11. 1X Cleanup after Size Selection
-
-MFU ONLY 12. TapeStation After Size Selection to Confirm Only 1 Band
-
+  - MFU ONLY 10. Double Band Size Selection
+  - MFU ONLY 11. 1X Cleanup after Size Selection
+  - MFU ONLY 12. TapeStation After Size Selection to Confirm Only 1 Band
 13. Quantify Combined Plates after Bead Clean
-
 14. Determine uM of Combined Plates, Dilute to 15nM, and Combine Plates into 1 Tube per Primer
-
 15. Make the Sample Sheet for Sequencing
 
-1. Normalize Volumes in Plate - this is if your samples are different volumes from the 1st PCR
+
+
+## 1. Normalize Volumes in Plate - this is if your samples are different volumes from the 1st PCR
 
 **Materials:**
 
 - Molecular grade water
-
 - Filter tips
-
 - Amplicons from the original PCRs, if in triplicate these are combined into 1 well in a plate for each sample
 
 **Steps \*On Post-PCR bench!\***
@@ -54,13 +40,12 @@ MFU ONLY 12. TapeStation After Size Selection to Confirm Only 1 Band
 - Look from underneath to find the wells with the largest volume
 - Use a p200 set to your estimated volume and aspirate the liquid in that well. If it is not large enough, adjust the volume and try again. If your guess volume was too large, while you have the liquid in the tip, adjust the volume in the pipette down until you see the liquid line in the tip get to the bottom of the tip. Record that volume as the largest volume that you&#39;ll have to bring all the other wells up to (this has been between 30 and 60ul previously).
 - Make a map of the plate in your notebook where you can fill in the estimates of volumes in each well. Ex:
-
 - For the first row, or for a few representative wells, use the pipette to get an accurate estimate of the volume in those wells. For the rest of the plate, go off those known volumes to estimate the rest. For example, if you measure 20ul in the first well, you&#39;ll know that any well that looks like that also has 20ul. This way you don&#39;t need to pipette measure every well. Close estimates are good enough
 - Create another plate in your notebook that has in each well the largest volume (ex. 50ul) minus the existing volume. This is how much water to add to each well to get them all to be equal. For wells that already have the largest volume, put an X and don&#39;t add any water to them. Ex:
-
 - Use filter tips to add the amount of molecular grade water up to the largest volume in each well
 
-2. 0.8X Bead Cleanup After 1st Amplification
+
+## 2. 0.8X Bead Cleanup After 1st Amplification
 
 **Materials:**
 
