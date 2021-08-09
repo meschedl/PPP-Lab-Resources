@@ -1,20 +1,20 @@
-## Agilent [Tape Station 4200](https://www.agilent.com/en/promotions/agilent-4200-tapestation-system?gclid=EAIaIQobChMI_tykoMrw4AIVFI7ICh2S3AZFEAAYASAAEgIqEPD_BwE&gclsrc=aw.ds) DNA D5000 or Genomic DNA Protocol
+## Agilent [Tape Station 4200](https://www.agilent.com/en/promotions/agilent-4200-tapestation-system?gclid=EAIaIQobChMI_tykoMrw4AIVFI7ICh2S3AZFEAAYASAAEgIqEPD_BwE&gclsrc=aw.ds) DNa D1000 Protocol
 
 ### Setup
 
-1. Take appropriate DNA Tape, buffer, and ladder (either Genomic or D5000) out of fridge 30 minutes beforehand to allow it to equilibrate to room temperature. **Make sure you get the correct reagents, D5000 and Genomic reagents are not interchangeble**
+1. Take the D1000 DNA Tape, buffer, and ladder out of fridge 30 minutes beforehand to allow it to equilibrate to room temperature
 
 
 ### Steps
 
 3. Take out appropriate number of Tape Station strip tubes and tube caps (separate boxes per lab)
 5. Vortex and spin down buffer, ladder, and samples
-6. Add 10µl of whichever DNA buffer each to the number of tubes needed + 1. The first tube is always the ladder
+6. Add 3µl of D1000 buffer each to the number of tubes needed + 1. The first tube is always the ladder
 7. Add 1µl DNA ladder to the first tube
 8. Add 1µl of each sample to each sample tube
 
 Ex:
-![](https://raw.githubusercontent.com/meschedl/MESPutnam_Open_Lab_Notebook/master/images/DNA-Tape-Ex.png)
+![](https://raw.githubusercontent.com/meschedl/PPP-Lab-Resources/master/images/DNA-Tape-D1000.png)
 
 9. Put on tube caps and vortex for 1 minute in IKA vortexer
 10. Spin down tubes
