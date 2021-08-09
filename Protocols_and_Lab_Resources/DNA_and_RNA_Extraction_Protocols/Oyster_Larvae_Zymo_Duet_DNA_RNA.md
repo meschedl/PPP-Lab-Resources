@@ -1,11 +1,7 @@
-## Zymo Duet Kit DNA/RNA Extraction Protocol : old protocol from 2018, incubation this long at 56 degrees no longer recommended with this kit
+# Zymo Duet Kit DNA/RNA Extraction Protocol : old protocol from 2018, incubation this long at 56 degrees no longer recommended with this kit
 
 
-### Part 1: Digestion
-
-**This step differs depending on the nature of how your samples were preserved/taken**
-
-# Oyster Larvae
+### Oyster Larvae Digestion
 
 * Prepare 50mL conical tubes for each one of your samples (max 8 at a time suggested)
 * Add 1000μl DNA/RNA shield to each tube
