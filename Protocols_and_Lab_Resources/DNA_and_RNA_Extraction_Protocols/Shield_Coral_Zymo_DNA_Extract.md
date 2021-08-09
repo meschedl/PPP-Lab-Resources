@@ -55,7 +55,7 @@
 ### QC
 
 **Qubit: Broad Range DNA**  
-- Follow Qubit [protocol]((https://github.com/meschedl/PPP-Lab-Resources/blob/master/Protocols_and_Lab_Resources/DNA_Quality_Control/Qubit-Assay-Protocol.md)
+- Follow Qubit [protocol](https://github.com/meschedl/PPP-Lab-Resources/blob/master/Protocols_and_Lab_Resources/DNA_Quality_Control/Qubit-Assay-Protocol.md)
 - Read samples twice and average readings
 - Make sure to record standards
 
