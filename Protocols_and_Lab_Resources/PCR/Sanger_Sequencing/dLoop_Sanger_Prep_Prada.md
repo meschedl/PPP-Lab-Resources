@@ -70,6 +70,7 @@ Last Updated 20210705 MES
 
 1.	Decide what dilution factor will work on all samples (if possible, if not possible you can do more than one dilution factor but that's just harder on you). You'll want to dilute to the point that you can pipette over 1ul of PCR product for 10ng total DNA but less than 10ul. For example if your PCR product concentration is 25ng/ul, a 1:10 dilution would work very well. This would make the diluted concentration 2.5ng/ul (25/10). Then you can pipette 4ul of the diluted PCR product to get 10ng total DNA.
 2.	Make a new column in your spreadsheet that has your qubit values for the new dilution concentration values. This is the qubit concentration divided by the dilution factor (25/10 in the above example). Note that each sample will still have a different concentration here, they are all just diluted by the same factor
+![](https://raw.githubusercontent.com/meschedl/PPP-Lab-Resources/master/images/Screen%20Shot%202021-08-09%20at%203.34.11%20PM.png)
 3.	Make a new plate or tubes for the dilution for your samples
 4.	Add the planned amount of water for the dilution to each tube/well. This will be the same for each sample. For example, if you are doing a 1:10 dilution on your PCR product, add 18ul to each well, and then you'll add 2ul of the PCR product. It's good practice to make more than what you will need, just in case you need to use the dilution more than once. It is also good practice to use more than 1ul of DNA, which is why it's 2ul and 18ul in the example, not 1ul and 9ul.
 5.	Added the planned amount of PCR product to each tube/well for dilution. This will be the same for each sample. A multichannel can be used if convenient
@@ -86,8 +87,8 @@ Last Updated 20210705 MES
 3.	Vortex and spin down the diluted primer and keep on ice until you're ready to use it
 4.	In your spreadsheet, determine how much volume of diluted (or not) PCR product is needed for 10ng. In the above example, the diluted DNA is now at 2.5ng/ul. For 10ng total DNA, 4ul of the diluted DNA is needed (10/2.5)
 5.	Determine how much molecular grade water will need to go with the 10ng of DNA so the total volume is 10ul. In the example with 4ul of diluted PCR product, you'll need 6ul of molecular grade water to equal 10ul for that sample. Make another column in your spreadsheet for this
-6.	If you have samples organized in a plate, you can make a plate map for easy pipetting, or you can keep things in a spreadsheet
-
+6.	If you have samples organized in a plate, you can make a plate map for easy pipetting, or you can keep things in a spreadsheet (see last two columns)
+![](https://raw.githubusercontent.com/meschedl/PPP-Lab-Resources/master/images/Screen%20Shot%202021-08-09%20at%203.34.25%20PM.png)
 7.	Aliquot the molecular grade water first into new plates or tubes on ice. Because each volume is different, it can help to highlight off each number after you add it
 8.	Vortex and spin down the diluted and cleaned PCR product
 9.	Add the calculated amount of diluted PCR product to each corresponding tube or well, so that each tube/well reaches 10ul total volume and 10ng total DNA. Because each volume is different, it can help to highlight off each number after you add it
@@ -95,14 +96,14 @@ Last Updated 20210705 MES
 11.	Cover the plate with a foil seal or close caps on tubes. Label 1-n for tubes or "Prada Lab samples for Sanger Sequencing, well A1-X" on the plate
 12.	Vortex and spin down the plate/tubes
 13.	Place tubes/plate in the -20 freezer until ready to bring to the GSC
-14.	Download the GSC spreadsheet template:
+14.	Download the GSC spreadsheet template: https://github.com/meschedl/PPP-Lab-Resources/blob/master/Protocols_and_Lab_Resources/PCR/Sanger_Sequencing/Files/Sanger_GSC_Sheet_Template.xls
 15.	Delete the column that says Plasmid (as we aren't submitting a plasmid for sequencing)
 16.	Create a 3 letter and number code for each sample, this is for the GSC. For simplicity use CP for Carlos Prada and your first initial, such as CPJ, and number after that. Ie: CPJ1, CPJ2, CPJ3. Go in order of how your samples are either laid out in tubes or wells in a 96 well plate. Add these codes to your personal spreadsheet so you know which sample is labeled as which. Write in CPJ1 etc etc in the 1st column of the GSC sheet
 17.	The template type is "PCR" and template size for D-Loop is 400bp
 18.	The rest of the sheet are things you've already calculated, you provide all this information to the GSC so they know you prepared the samples properly:
   - The template stock concentration is the concentration of the factor diluted PCR products (2.5ng/ul in the example sample)
 	- Ng needed of PCR template is 10ng
-	- Volume of PCR template is what you've already calculated and added to each well/tube: how much volume of diluted template needed for 10ng (4ul in the example sample
+	- Volume of PCR template is what you've already calculated and added to each well/tube: how much volume of diluted template needed for 10ng (4ul in the example sample)
 	- Volume water need is the other same calculation: 10 - PCR product volume (6ul in the example sample)
 	- And volume 3.2uM primer needed is always 2ul
 	- Make sure you are putting this information in the sheet in the order of the samples you have in tubes or plates
