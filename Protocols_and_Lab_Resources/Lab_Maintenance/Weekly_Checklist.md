@@ -1,6 +1,6 @@
 # PPP Lab Weekly Checklist
 
-- Type II DI water says \&gt;15MΩ purity and is filling to 75% or 100% when not in use
+- Type II DI water says >15MΩ purity and is filling to 75% or 100% when not in use
 - Remade squirt bottles on benches (6 of each)
 
   - 10% Bleach
