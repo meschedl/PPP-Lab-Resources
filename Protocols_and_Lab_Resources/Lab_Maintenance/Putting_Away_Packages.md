@@ -1,0 +1,35 @@
+# Unpacking Packages, Labeling, and Putting Away Items
+
+- Packages can arrive anywhere from 9am to 5pm, but most often between 11am and 1pm
+- Packages shipped by USPS are sometimes delivered to the mail room on the 3rd floor and put in your PI&#39;s box, check there once a week and whenever a USPS package is expected
+- Sometimes packages from Agilent will be delivered to the Chem building, the stockroom will email the PI and you can go over to pick them up from 9am-4pm
+- Usually the student working in the loading dock or Nasir will try to notify whoever is in the lab that there is a package delivered. If a package is temperature sensitive, they will make sure to notify someone who is in the lab, however that will be just whoever happens to be in there. Sometimes if the packages are just room temp they will leave them on the freezer without trying to find anyone. If no one is in the lab to "receive"; a temperature sensitive package, it will be put in the fridge or freezer in the loading dock.
+- Temperature sensitive (either on dry ice or on ice packs) packages should be opened quickly
+- Packages brought by Amazon couriers (who sometimes don't go through the loading dock) may be left on the table outside the lab or in front of PI's offices. These often arrive at weird times (late afternoon)
+- Use the box cutter to open packages efficiently
+- Find the packing slip for each package and have that with you when you go through the box contents
+  - Amazon packing slips are small squares usually at the bottom of the package
+  - Fisher packing slips are blue and white striped and sometimes in the package sometimes in a pouch outside
+  - Packing slips are often on a plastic pouch on the outside of the box
+- Check off each item on the packing list when you go through the box confirming it arrived. Make sure to count items if multiple are sent
+- Write the PI's name and the date on the checked packing slip
+- Save all packing slips from the week for your PI, at the end of the week scan the packing slips (notes app in IOS phones has scanning capabilities) and email the scanned slips (pdf) to ctravis@uri.edu (Colleen Travis)
+- Label the items that arrived appropriately with your PI's name:
+  - Use sharpie
+  - Label things individually
+  - If there is thin plastic wrapping, decide if you want to remove it before labeling or if it should stay wrapped until use. In that case, label the wrapping
+  - For any kit, reagent, solid or liquid chemical (even water), label with the PI's name **and** the received date, such as r: 20210614
+- Store the item appropriately
+  - if it's more of something we already had, put it in the same place
+  - If it's a new molecular item, find room on the molecular shelving and cabinet space **specific for your lab**
+  - If it's a field/wetlab/aquarium item, find room on the organismal side **in space specific for your lab**
+  - Larger or items that stay in packaging can be put on the red shelving
+  - For the Putnam lab: large items, low use, field, or overflow items can be stored in the storage room #97
+  - Any solid or liquid chemical needs to be stored in the chemical cabinets
+- For the packaging: anything that is plastic needs to be thrown away in the trash: all big air pockets need to be popped (bubble wrap doesn't need to be), plastic bags or other plastic packaging goes in the trash. Packing peanuts go in the trash (some are biodegradable but not recyclable)
+- Any paper packaging can go in the recycling bins
+- Boxes must be fully broken down flat, and can be placed behind one of the recycle bins in the lab. Very large cardboard boxes should be flattened and taken down to the loading dock (on the cart) and put in the cardboard dumpster outside
+- **For the Puritz lab** : if the item is new for the lab, add it to the lab Quartzy account. If already in the Quartzy, update the number of items "in stock";
+- **If the item in the mail is a solid, liquid, flammable, or, acid chemical (basically any reagent or powder other than water) that is new, it needs to be entered in on the shared lab chemical forms**. [Flammables link](https://docs.google.com/spreadsheets/d/1tYZ34OU6GBhAvuHS4IEkn64MvySKwOOeeKIhfnNXUkI/edit?usp=sharing), [solids link](https://docs.google.com/spreadsheets/d/1yDtKuec2nwIWYFENB9Ll93Q8GENJnJBYu026NQuk3zk/edit?usp=sharing), [liquids link](https://docs.google.com/spreadsheets/d/1KyMLr2TK_TF1JAwBU1fq7Ds6WTsBWPS5apQrQoHXdP4/edit?usp=sharing), [acids link](https://docs.google.com/spreadsheets/d/1JE6HakGNpniX6lm_KX9suQDHxghloytCORpnpKGzzDg/edit?usp=sharing). Put in the PI information as well as the hazard class information. You can find the hazard class info in the SDS for the chemical. Find the sds by searching the catalog number on the website the chemical came from and they should provide an SDS link.
+  - If this is for the Putnam lab, the same information needs to be added to the Putnam Lab\_Managment github repository in the Lab\_Chemicals directory: [https://github.com/Putnam-Lab/Lab\_Management/tree/master/Lab\_Resourses/Lab\_Chemicals](https://github.com/Putnam-Lab/Lab_Management/tree/master/Lab_Resourses/Lab_Chemicals) These tables are verbatim the tables above inculding only information on chemicals in the Putnam Lab
+  - **Print out the new chemical list when it's been updated as well as print out the SDS**. Hole punch the SDS and staple it (there are staplers in the 4th floor copy room) and put it in the SDS binder in alphabetical order. Replace the old chemical list on the cabinet with the updated one
