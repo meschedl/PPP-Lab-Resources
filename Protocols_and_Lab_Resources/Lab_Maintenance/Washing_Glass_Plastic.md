@@ -24,6 +24,7 @@
 **Other notes**
 
 - **Most** glassware and plasticware can be cleaned with the alkaline glassware detergent. If your item had **bleach**, you should use the 10% acid glassware detergent. If you are unsure on how to clean, look up on the internet to see if you can find anything. It can also be helpful to consider the type of chemical you had in the item. For example, bleach is basic, so you should clean it with the acid detergent to neutralize.
+- **If you are cleaning glassware that had a hazardous chemical that you used in the hood, try to rinse if possible inside the hood. Make sure you continue to wear a lab coat, gloves, and safety glasses or goggles**
 - **Remaking diluted detergents when out**
   - 1 gallon bottles Lab Klenz Acid and Alkaline detergents are under the sinks in the desk and hood rooms
   - Measure 50mL in a beaker and pour into the appropriate squirt bottle
