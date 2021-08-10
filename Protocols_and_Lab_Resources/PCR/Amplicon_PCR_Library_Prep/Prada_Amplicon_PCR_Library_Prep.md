@@ -13,13 +13,13 @@ Last edited 20210810 Maggie Schedl
 5. 1% Agarose Gel to Check for Amplification
 6. Biotium Broad Range DNA Quantification Assay (For less than 36 samples, if more than 36, use the [Biotium Plate Reader Assay](https://github.com/meschedl/PPP-Lab-Resources/blob/master/Protocols/Biotium-BroadRange-DNA-PlateReader.md) Protocol)
 7. D5000 TapeStation - Necessary for a few samples when all 2nd PCRs are done
-8. Determining uM, Diluting and Combining by Plates (For all Amplicons)
-MFU ONLY 9. 1X Bead Cleanup after Pooling
-MFU ONLY 10. Double Band Size Selection
-MFU ONLY 11. 1X Cleanup after Size Selection
-MFU ONLY 12. TapeStation After Size Selection to Confirm Only 1 Band
-MFU ONLY 13. Quantify MFU Pool after Size Selection
-MFU ONLY 14. Determine uM of MFU Pools and Dilute to 15nM
+8. Determining uM, Diluting and Combining by Plates (For all Amplicons)  
+  MFU ONLY 9. 1X Bead Cleanup after Pooling  
+  MFU ONLY 10. Double Band Size Selection  
+  MFU ONLY 11. 1X Cleanup after Size Selection  
+  MFU ONLY 12. TapeStation After Size Selection to Confirm Only 1 Band  
+  MFU ONLY 13. Quantify MFU Pool after Size Selection  
+  MFU ONLY 14. Determine uM of MFU Pools and Dilute to 15nM
 15. Make the Sample Sheet for Sequencing
 
 #### **Before you begin really prepping your samples, email Janet Atoyan jatoyan@uri.edu in Pharmacy at the Sequencing Center to tell them that you are planning on making Amplicon libraries to be sequenced on the MiSeq. Tell them how many samples, that you will prep them, and that you will pool them.**
