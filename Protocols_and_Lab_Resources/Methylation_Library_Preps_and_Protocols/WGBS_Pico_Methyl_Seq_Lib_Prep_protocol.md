@@ -233,7 +233,7 @@ Prep Workflow Diagram from Zymo:
 - For adding these I usually make a table where each addition can be highlighted after each pipette, ex:
 
 |sample|vol DNA| vol LibAmp MM| vol primer pair|
-|---|---|---|---|---|
+|---|---|---|---|
 |1|12|13|1ul index 1|
 |2|12|13|1ul index 2|
 
