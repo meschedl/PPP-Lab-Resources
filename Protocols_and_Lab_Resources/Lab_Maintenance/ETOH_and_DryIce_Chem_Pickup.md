@@ -13,4 +13,5 @@
 - **You will need to get and IVPO with your PI first before getting dry ice from Chemistry, it might be best to set up a blanket PO that they can charge from**
 - Dry ice is $1 a pound
 - A regular sized Agilent cooler box fits 9lbs of dry ice
-- Email	stockroom@chm.uri.edu and tmarkmaitree@uri.edu with the IVPO information
+- Email	stockroom@chm.uri.edu and tmarkmaitree@uri.edu with the IVPO information and how much dry ice you'll need
+- Wait for confirmation from them (in case they're out) before heading over to the stockroom (bottom floor of chem, all the way at the end of the hall) with your cooler
