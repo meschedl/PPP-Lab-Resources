@@ -3,7 +3,7 @@
 Protocol is a mix of 1/7th reactions from Nextera XT and recommendations from [Kishony et. al](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0128036)
 
 Prada Lab
-Last Update 20210809 Maggie Schedl
+Last Update 20210812 Maggie Schedl
 
 **Materials**
 
@@ -19,6 +19,24 @@ Last Update 20210809 Maggie Schedl
 - Foil seals [LINK](https://www.thermofisher.com/order/catalog/product/AB0626?SID=srch-hj-AB-0626#/AB0626?SID=srch-hj-AB-0626)
 - Thermocycler
 - Biotium broad range DNA assay kits
+
+#### PRE-STEP: Any time you get in a new kit you should aliquot the reagents into smaller tubes. The suggested volume to aliquot are amounts for 8 preps each. This way you have enough for a small test prep in 1 tube, or you can easily use multiple tubes for more or a plate. This kit has had issues with reagents not working after multiple freeze-thaws, so it is essential to aliquot out when you get a new box if you're not planning on using all of it at once.
+- Total volumes in tubes from Illumina
+  - TD: 1.24mL
+  - NT: 0.66mL
+  - ATM: 0.236mL
+  - NPM: 0.41mL
+- The most limiting reagent is the NPM. The maximum amount of aliquots for 8 samples each you can get out the NPM is 21. 21 x 8 = 168. 168 preps is the maximum you can get out of the 24 kit with 1/7th reaction volumes
+- NT is kept at room temp and does not need to be aliquoted
+- Make 21 small strip tubes for each: TD, ATM, and NPM
+- Thaw TD, ATM, and NPM on ice
+- Invert to mix and spin down reagents
+- Add 12.78ul of TD to the 21 TD aliquot tubes on ice
+- Add 6.65ul ATM to the 21 ATM aliquot tubes on ice
+- Add 19.26ul NPM to the 21 NPM aliquot tubes on ice
+- Spin down all aliquot tubes and place in a PCR rack with a cover in the -20. Label with the kit name, Prada, and the kit received date
+
+
 
 **Steps**
 
