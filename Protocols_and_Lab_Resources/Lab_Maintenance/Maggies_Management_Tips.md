@@ -25,3 +25,15 @@
 - [Solution Dilution Calculator](https://www.sigmaaldrich.com/US/en/support/calculators-and-apps/solution-dilution-calculator)
 - [ng/ul to nM DNA conversion equation](https://support.illumina.com/bulletins/2016/11/converting-ngl-to-nm-when-calculating-dsdna-library-concentration-.html)
 - [Primer annealing temp optimization/PCR success info sheet](https://www.thermofisher.com/us/en/home/life-science/cloning/cloning-learning-center/invitrogen-school-of-molecular-biology/pcr-education/pcr-reagents-enzymes/pcr-cycling-considerations.html)
+
+### 4. Random notes
+
+- Gloves can't be recycled! Don't do it!
+- Turn off things and put things away as much as possible when you're done with them. A clean lab is a happy lab :)
+- Minimize your trips into the -80 freezer. These freezers are only designed to be open once a week! That's not possible for our work, but you can plan things better to make it easier on the freezers. Keeping samples on a box of dry ice keeps them just as frozen as in the freezer
+- Empty spaces in freezers, **especially -80s** are actually bad for the freezer! Stuff hold temp way better than air! When there are big holes in the freezer, the cold air wooshes out every time it's opened and it's more work to cool down. Use styrofoam coolers to take up extra space in freezers, or store dry ice there
+- Clean your bench stations before use: we have the squirt bottles there! Bleach it and ethanol the pipettes! It will only make your work cleaner
+- **Take your time**, the less you rush with your labwork the better your results will be. It's like the DNA knows you're rushing or something. Pipetting carefully actually makes a huge difference. Learn to pipette smoothly but precisely
+- Plan ahead before coming into lab, and the printer is your friend! My lab notebook is full of plate maps that I have printed out! **[Here is a link to a plate map that you can always copy and paste into your spreadsheet](https://docs.google.com/spreadsheets/d/1TZvQMCMkT27Csgoiu7RhEj0LUV_U-hdWInc9vN1w51Q/edit?usp=sharing)**. I put sample layouts, dilution layouts, everything in these! Then I print them and highlight off each time I add something. Using the black tube racks like a 96 well plate for 1.5mL tubes is super helpful
+- **Take care of our equipment**, they are shared resources and to be frank: we only get 1. Follow the instructions for equipment like the TapeStation or the Plate Reader on the specific order to turn them on or off. When done like this, these work best. Turn things off when you're done with them: scales, centrifuges, shakers, lights, etc.
+- **My number one note: properly latch the flammable cabinet door! It must click to be safely closed!**
