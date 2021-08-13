@@ -37,7 +37,7 @@ Last modified 20210813 by Maggie Schedl
 
 ## 2. Choosing Size Range and Enzyme Pair
 
-- Use [this protocol](https://github.com/meschedl/PPP-Lab-Resources/blob/master/Protocols_and_Lab_Resources/ddRAD_Library_Prep/Puritz_Pick_ddRAD_Size_Selection.md)for picking the size range and enzyme pair to use
+- Use [this protocol](https://github.com/meschedl/PPP-Lab-Resources/blob/master/Protocols_and_Lab_Resources/ddRAD_Library_Prep/Puritz_Pick_ddRAD_Size_Selection.md) for picking the size range and enzyme pair to use
 - If there is an already known optimum enzyme pair and size range for your species this step can be skipped
 
 ## 3. Sample Layout and Multiplex Planning
