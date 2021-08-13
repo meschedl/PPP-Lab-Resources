@@ -1,10 +1,10 @@
 # Long Read DNA Library Prep Protocol with the [Oxford Nanopore Ligation Sequencing Kit](https://store.nanoporetech.com/ligation-sequencing-kit.html) and the [NEB Companion Module for Oxford Nanopore Technologies Ligation Sequencing](https://www.neb.com/products/e7180-nebnext-companion-module-for-oxford-nanopore-technologies-ligation-sequencing#Product%20Information) for MinION Sequencing
 
-#### This prep has been successful with 1.3ug total starting DNA. DNA quality as very very high molecular weight: the majority of fragments over 60,000bp in length (as measured by Genomic TapeStation Assay)
+#### This prep has been successful with 1.3ug total starting DNA. DNA quality should be very very high molecular weight: the majority of fragments over 60,000bp in length (as measured by Genomic TapeStation Assay)
 
 #### Usually you won't be sequencing more than one sample on a MinION at once. You can do more than one library prep with the same sample to have enough library to re-load the MinION multiple times.
 
-#### Use wide-bore pipette tips when working with HMW DNA. Avoid pipetting as much as possible the DNA and never vortex the DNA. You should also use "DNA lo-bind" tubes. Never freeze HMW DNA, keep in the fridge for storage.
+#### Use wide-bore pipette tips when working with HMW DNA. Avoid pipetting the DNA as much as possible and never vortex the DNA. You should also use "DNA lo-bind" tubes. Never freeze HMW DNA, keep in the fridge for storage.
 
 #### Bead cleanups for HMW DNA are much more drawn out than regular ones. Long fragments take much more time to move (bind or un-bind to beads).
 
