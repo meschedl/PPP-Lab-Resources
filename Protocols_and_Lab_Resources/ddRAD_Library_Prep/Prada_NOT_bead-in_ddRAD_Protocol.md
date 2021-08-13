@@ -475,7 +475,7 @@ Please read this fully before starting, this is not a protocol, this is guidelin
 - Place the tubes back on the magnet stand and wait for the solution to become clear
 - Remove the clear supernatant from the 4 tubes into 4 new tubes
 - **Stop! Qubit these tubes to make sure you did not loose DNA. Use Qubit Protocol**
-- **You should have about 100ng \* how many samples per pool total DNA. To calculate total DNA, multiply the qubit value x 4 x 40. **
+- **You should have about 100ng \* how many samples per pool total DNA. To calculate total DNA, multiply the qubit value x 4 x 40.**
 - After quantifying and confirming no drastic DNA loss, combing the 4 tubes and add the 40ul from each back into one 1.5 or 2mL tube (**critical that these are from the same original pool)**
 - Add 1.5X MagBio Beads (240μl) to the new combined 1.5/2mL tube, mix by pipetting, and incubate on a shaker for 15 minutes
 - Put the tubes on the magnet, wait until the liquid becomes clear, and remove as much of the clear liquid as you can
