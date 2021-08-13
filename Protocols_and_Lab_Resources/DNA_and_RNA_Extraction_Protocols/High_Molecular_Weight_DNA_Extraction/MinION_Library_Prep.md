@@ -1,6 +1,6 @@
 # Long Read DNA Library Prep Protocol with the [Oxford Nanopore Ligation Sequencing Kit](https://store.nanoporetech.com/ligation-sequencing-kit.html) and the [NEB Companion Module for Oxford Nanopore Technologies Ligation Sequencing](https://www.neb.com/products/e7180-nebnext-companion-module-for-oxford-nanopore-technologies-ligation-sequencing#Product%20Information) for MinION Sequencing
 
-#### This prep has been successful with 1.3ug total starting DNA. DNA quality as very very high molecular weight: the majority of fragments over 60,000bp in length (as measured by Genomic TapeStation Assay)
+#### This prep has been successful with 1.3ug total starting DNA. DNA quality should be very very high molecular weight: the majority of fragments over 60,000bp in length (as measured by Genomic TapeStation Assay)
 
 #### Usually you won't be sequencing more than one sample on a MinION at once. You can do more than one library prep with the same sample to have enough library to re-load the MinION multiple times.
 
