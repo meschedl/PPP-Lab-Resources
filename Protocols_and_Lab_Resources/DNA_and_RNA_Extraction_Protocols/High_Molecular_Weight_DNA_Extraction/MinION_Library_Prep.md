@@ -4,7 +4,7 @@
 
 #### Usually you won't be sequencing more than one sample on a MinION at once. You can do more than one library prep with the same sample to have enough library to re-load the MinION multiple times.
 
-#### Use wide-bore pipette tips when working with HMW DNA. Avoid pipetting as much as possible the DNA and never vortex the DNA. You should also use "DNA lo-bind" tubes. Never freeze HMW DNA, keep in the fridge for storage.
+#### Use wide-bore pipette tips when working with HMW DNA. Avoid pipetting the DNA as much as possible and never vortex the DNA. You should also use "DNA lo-bind" tubes. Never freeze HMW DNA, keep in the fridge for storage.
 
 #### Bead cleanups for HMW DNA are much more drawn out than regular ones. Long fragments take much more time to move (bind or un-bind to beads).
 
